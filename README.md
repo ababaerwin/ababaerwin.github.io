@@ -1,25 +1,22 @@
 # Erwin A
 
-Software Developer | Open Source Enthusiast
+IT Specialist with experience in hardware and software.
 
 ## About Me
-
-I'm a software developer with experience in PHP, JavaScript, and CSS. I'm passionate about open source software and enjoy contributing to projects in my free time. In my spare time, I like to watch movies and playing chess.
-
-## Projects
-
-### Library System
-I am using koha for our library system.
-
-### Inventory System
-I am using snipe-IT for our inventory of library asset
+Currently working on inventory system and library system the for university.
 
 ## Skills
 
 - JavaScript
-- Java
 - PHP
 - HTML/CSS
+- VB6
+- MYSQL
+
+- Linux
+- Windows (Server 2008, Server 2003)
+
+- Adobe Photoshop
 
 ## Education
 
@@ -28,4 +25,4 @@ I am using snipe-IT for our inventory of library asset
 ## Contact Me
 
 - Email: erwin.ababa@gmail.com
-- LinkedIn: /in/in/ababaerwin/
+- LinkedIn: /in/ababaerwin/
