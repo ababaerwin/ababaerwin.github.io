@@ -1,6 +1,6 @@
 # Erwin A
 
-IT Specialist with experience in hardware and software.
+IT Specialist with mixed experience in hardware and software.
 
 ## About Me
 Currently working on inventory system and library system the for university.
